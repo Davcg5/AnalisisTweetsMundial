@@ -1,0 +1,8 @@
+function (doc) {
+
+  
+emit(doc.coordinates, doc.text);
+  
+ 
+ 
+}

@@ -1,0 +1,5 @@
+function (doc) {
+ 
+emit(doc.created_at.substring(4,10), doc.text);
+
+}
